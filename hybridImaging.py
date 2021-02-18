@@ -1,5 +1,6 @@
 #Author: Michael Giancola
-#CS4442 Assignment 3 Question 2
+#Created a hybrid image using the michael.jpg and mrbean.jpg
+#Used the equation out = blure(B) + (A-blur(A)) and wrote the blur function which low-pass filters an image
 #Date: 18 March 2020
 
 import imageio
