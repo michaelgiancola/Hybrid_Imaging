@@ -1,5 +1,5 @@
 #Author: Michael Giancola
-#CS4442 Assignment 3 Question 3
+#De-hybridizing the einsteinandwho.jpg image by removing the individual represented in the low spatial frequency range to create two images
 #Date: 18 March 2020
 
 import imageio
